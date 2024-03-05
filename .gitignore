@@ -1,0 +1,8 @@
+# IDE user specific files
+.vs/
+.idea/
+.vscode/
+
+# UE binaries, cached and generated files
+Binaries/
+Intermediate/
